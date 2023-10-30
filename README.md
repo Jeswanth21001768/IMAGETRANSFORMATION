@@ -79,8 +79,6 @@ cv2.imshow('reflected_y',reflect_y)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
-
 v)Image Rotation
 
 angle = np.radians(15)
@@ -91,10 +89,6 @@ cv2.imshow('rotated',rotate_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
-
-
-
 vi)Image Cropping
 
 cropped_img=img[10:500,25:600] 
@@ -104,33 +98,21 @@ cv2.destroyAllWindows()
 
 
 ```
-
 ## Output:
 ### i)Image Translation
-![output](or.jpg)
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/b347405b-4e3c-436f-928c-cd4000b4fec6)
 ### ii) Image Scaling
-![output](2.jpg)
-
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/0b0d8ad9-9e21-4db7-a702-996b044effa6)
 ### iii)Image shearing
-![output](3.jpg)
-![output](4.jpg)
-
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/84c99cdd-817f-4daf-b184-4d4143436158)
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/fea2f5a8-b234-4f4f-85d3-5836a839db89)
 ### iv)Image Reflection
-![output](5.jpg)
-![output](6.jpg)
-
-
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/1ef0b7ba-519b-469b-a582-81391571b207)
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/17bb1f26-42b8-4c5c-9d3c-478b94c043cb)
 ### v)Image Rotation
-![output](8.jpg)
-
-
-
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/fb3aef37-e618-43c0-8807-7dfcdcd993c3)
 ### vi)Image Cropping
-![output](9.jpg)
-
-
-
+![image](https://github.com/Jeswanth21001768/IMAGETRANSFORMATION/assets/94155480/0e1909b0-1f77-451f-94f2-a802b18c3ac4)
 
 ## Result: 
-
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation, and Cropping are done using OpenCV and Python programming.
