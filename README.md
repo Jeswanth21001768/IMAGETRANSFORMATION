@@ -107,26 +107,26 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### i)Image Translation
-![output](or.png)
+![output](or.jpg)
 ### ii) Image Scaling
-![output](2.png)
+![output](2.jpg)
 
 ### iii)Image shearing
-![output](3.png)
-![output](4.png)
+![output](3.jpg)
+![output](4.jpg)
 
 ### iv)Image Reflection
-![output](5.png)
-![output](6.png)
+![output](5.jpg)
+![output](6.jpg)
 
 
 ### v)Image Rotation
-![output](8.png)
+![output](8.jpg)
 
 
 
 ### vi)Image Cropping
-![output](9.png)
+![output](9.jpg)
 
 
 
